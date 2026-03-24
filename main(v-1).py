@@ -5,6 +5,6 @@ adj = input("Enter an adjective: ")
 place = input("Enter a place: ")      
 num = input("Enter a number: ")
 
-story = "Oneday," + noun + " went to the " + place + " to " + verb + ". It was a very " + adj + " day. Suddenly, it started raining and " + num + " drops of water fall on " + noun + "'s head. "
+story = "One day," + noun + " went to the " + place + " to " + verb + ". It was a very " + adj + " day. Suddenly, it started raining and " + num + " drops of water fell on " + noun + "'s head. "
 
 print("Here's your Mad Libs story:"+"\n" + story)

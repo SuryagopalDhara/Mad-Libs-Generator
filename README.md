@@ -7,3 +7,4 @@ f-strings — to insert words into the story
 print() — to display the final story
 
 #V1 : Just Printing the (one) story with given word .
+#V2 : Show the user 3 story choices, let them pick one by number, then fill that story with their words.
